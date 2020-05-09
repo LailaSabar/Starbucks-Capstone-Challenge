@@ -19,15 +19,15 @@ The task is to combine transaction, demographic and offer data to determine whic
 ## Project Components<a name="components"></a>
 
 The problem that I chose to solve was to build a model that predicts whether a customer will respond to an offer or not.
-Here are the main steps that I followed through the analysis :
+Here are the main steps that I followed through the analysis :  
 
-1- Exploring and cleaning the given data sets.
-2- Combinig data sets to get a final clean data containing relevant features.
-3- Split data into training and test data sets / Scaling features.
-4- Select the appropriate performance matrix.
-5- Train the classifier and choosing the best estimator using GridSearch
-6- Calculate features importance given by the best estimator.
-7- Compute performance of the model using test data, and plot a confusion matrix.
+1- Exploring and cleaning the given data sets.  
+2- Combinig data sets to get a final clean data containing relevant features.  
+3- Split data into training and test data sets / Scaling features.  
+4- Select the appropriate performance matrix.  
+5- Train the classifier and choosing the best estimator using GridSearch.    
+6- Calculate features importance given by the best estimator.  
+7- Compute performance of the model using test data, and plot a confusion matrix.  
 
 ## Installation<a name="installation"></a>
 
