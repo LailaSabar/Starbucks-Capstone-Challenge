@@ -8,7 +8,7 @@ This project is a part of Udacity Data Science Nanodegree
 3. [Installation](#installation)
 4. [File Descriptions](#files)
 5. [Instructions](#instructions)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [Acknowledgements](#licensing)
 7. [Results](#results)
 ## Project Overview<a name="overview"></a>
 
